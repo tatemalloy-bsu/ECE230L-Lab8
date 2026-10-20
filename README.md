@@ -21,6 +21,8 @@ Tate Malloy, Hayden Nguyen, Peter Kjaer
 
 ### In plain English describe the function and use of a multiplexer.
 
+A multiplexer is a circuit that take multiple input and selects one to send to the output. It uses select lines to decide which input is chosen. It useful because it lets you control which data gets sent through one input.
+
 ### In plain English describe the function and use of a demultiplexer.
 
 ### What other uses might these circuits have? (Think Shannon’s)
