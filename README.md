@@ -13,6 +13,8 @@ In this lab you have learned about multiplexers and demultiplexers.
 
 ## Names
 
+Tate Malloy, Hayden Nguyen, Peter Kjaer
+
 ## Summary
 
 ## Lab Questions
