@@ -17,6 +17,8 @@ Tate Malloy, Hayden Nguyen, Peter Kjaer
 
 ## Summary
 
+In this lab, we designed and used a 4-input multiplexer and a 4-output demultiplexer. They each handle 4 input buses and have select bits from 0-3 and an enable bit. Depending on the select bit in the multiplexer, it will route one of the 4 inputs to its output. The demultiplexer does the opposite of routing 1 input into 1 of 4 outputs. We used 16 switches on our Basys3 board to create 4 different input buses and buttons on the board to decide if the mux & demux are enabled and what inputs/outputs are selected on them.
+
 ## Lab Questions
 
 ### In plain English describe the function and use of a multiplexer.
