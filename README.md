@@ -26,6 +26,7 @@ In this lab, we designed and used a 4-input multiplexer and a 4-output demultipl
 A multiplexer is a circuit that take multiple input and selects one to send to the output. It uses select lines to decide which input is chosen. It useful because it lets you control which data gets sent through one input.
 
 ### In plain English describe the function and use of a demultiplexer.
+A demultiplexer takes in data and selection bits, and outputs that data to the selected output bit. Demultiplexers are used to send data to different locations based on certain reasons.
 
 ### What other uses might these circuits have? (Think Shannon’s)
-
+One use is the ability to create any function using multi and demultiplexers, since Shannon's expansion gives the basis for this to be possible.
